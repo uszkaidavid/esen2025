@@ -28,3 +28,24 @@
 1745911065846:list bookstores
 1745911466724:delete bookstore --id 1
 1745911470226:list bookstores
+1746512422642:help
+1746512789640:create bookstore
+1746512842454:create bookstore --location Budapest --priceModifier 1.1 --moneyInCashRegister 10.0
+1746512869613:help
+1746512877679:list bookstores
+1746512920768:create bookstore --location P�sp�klad�ny --priceModifier 1.1 --moneyInCashRegister 10.0
+1746512924636:list bookstores
+1746513852697:update bookstore 5 Nagy 1.08
+1746513854696:list bookstores
+1746514057514:list books
+1746514964700:find prices --id 3
+1746515954788:list books
+1746515988907:find books filtered --title Az aranyember
+1746516000492:find books filtered --title "Az aranyember"
+1746516082438:find books filtered
+1746516091243:find books filtered Az aranyember
+1746516098819:find books filtered --title "Az aranyember"
+1746516176812:help
+1746516198990:fb --title "Az aranyember"
+1746516204907:list books
+1746516224489:fb --author "Jókai Mór"
